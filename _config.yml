@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Leonid Keselman
+name: RobIn: Robot Interactive Intelligence Lab
 
 # Short bio or description (displayed in the header)
 # description: the profile of an engineer, researcher and software developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/circle_bw_crop.jpg
+avatar: images/logo_robin1_vertical.jpg
 
 #
 # Flags below are optional
@@ -18,11 +18,11 @@ avatar: images/circle_bw_crop.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: lkeselman@gmail.com
+  email: robertomm@cs.utexas.edu
   facebook:
   flickr:
-  github: leonidk
-  instagram: leo_nid_k
+  github: UT-Austin-RobIn
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
