@@ -57,6 +57,8 @@ horizontal: false
       <td><div style="text-align:center"><a href="https://reneu.robotics.utexas.edu/members/gu-cheol-jeong"><img src="../assets/img/gu-cheol.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Gu-Cheol Jeong" border="5"/><br />Gu-Cheol Jeong</a> <br/>Ph.D. Student<br><br></div></td>
       <td><div style="text-align:center"><a href="https://scholar.google.com.hk/citations?user=l_B2GBMAAAAJ&hl=en"><img src="../assets/img/siqi.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Siqi Shang" border="5"/><br />Siqi Shang</a> <br/>Ph.D. Student<br><br></div></td>
       <td><div style="text-align:center"><a href="https://priyankamandikal.github.io/"><img src="../assets/img/priyanka.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Priyanka Mandikal" border="5"/><br />Priyanka Mandikal</a> <br/>Ph.D. Student<br><br></div></td>
+      <td><div style="text-align:center"><a href=""><img src="../assets/img/jay.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Jay Shim" border="5"/><br />Jay Shim</a> <br/>Undergraduate Student<br><br></div></td>
+      <td><div style="text-align:center"><a href=""><img src="../assets/img/romir.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Romir Sharma" border="5"/><br />Romir Sharma</a> <br/>Undergraduate Student<br><br></div></td>
     </tr>
     <tr>
       <td style="font-size:1.5em">
