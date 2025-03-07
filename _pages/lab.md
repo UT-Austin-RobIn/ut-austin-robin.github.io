@@ -22,7 +22,7 @@ horizontal: false
 <table>
   <tbody>
   <tr>
-    <td><div style="text-align:center"><a href="https://robertomartinmartin.com"><img src="../assets/img/roberto_martinmartin.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Roberto Martín-Martín" border="5"/><br />Roberto Martín-Martín</a> <br/>Director and PI<br/><br><br></div></td>
+    <td><div style="text-align:center"><a href="https://robertomartinmartin.com"><img src="../assets/img/roberto_martinmartin.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Roberto Martín-Martín" border="5"/><br />Roberto Martín-Martín</a> <br/>Director and PI<br/>Visiting Academic at Amazon Consumer Robotics<br><br><br></div></td>
   </tr>
     <tr>
       <td><div style="text-align:center"><a href="https://babbatem.github.io/"><img src="../assets/img/ben.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ben Abbatematteo" border="5"/><br /> Ben Abbatematteo</a> <br/>Post-Doctoral Researcher<br><br></div></td>
