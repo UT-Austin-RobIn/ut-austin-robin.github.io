@@ -72,7 +72,7 @@ horizontal: false
     </tr>
     <!-- <br> -->
     <tr>
-      <td> Student </td> 
+      <td> Student </td>
       <td> Class </td>
       <td> After Graduation </td>
     </tr>
