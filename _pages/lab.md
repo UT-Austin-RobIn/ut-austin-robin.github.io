@@ -36,7 +36,7 @@ horizontal: false
       <td><div style="text-align:center"><a href="https://jiahenghu.github.io/"><img src="../assets/img/jeff_squared.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Jiaheng Hu" border="5"/><br /> Jiaheng Hu</a> <br/>Ph.D. Student<br/><font size="-1">Coadvised with Peter Stone</font></div></td>
       <td><div style="text-align:center"><a href="https://shahrutav.github.io/"><img src="../assets/img/rutav_pp.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Rutav Shah" border="5"/><br />Rutav Shah</a> <br/>Ph.D. Student<br><font size="-1">Coadvised with Yuke Zhu</font></div></td>
       <td><div style="text-align:center"><a href="https://scholar.google.com/citations?user=ZzURcb4AAAAJ&hl=en"><img src="../assets/img/albertyu_sq.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Albert Yu" border="5"/><br />Albert Yu</a> <br/>Ph.D. Student<br><font size="-1">Coadvised with Raymond Mooney</font></div></td>
-      <!-- <td><div style="text-align:center"><a href="https://github.com/rayruchira"><img src="../assets/img/ruchira.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ruchira Ray" border="5"/><br />Ruchira Ray</a> <br/>Master's student</div></td> -->
+      <td><div style="text-align:center"><a href="https://kevinrohling.com/"><img src="../assets/img/kevin.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Kevin Rohling" border="5"/><br />Kevin Rohling</a> <br/>Master's student</div></td>
     </tr>
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/addiefoote/"><img src="../assets/img/addie.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Addie Foote" border="5"/><br />Addie Foote</a> <br/>Undergraduate student<br><br></div></td>
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/luca-macesanu/"><img src="../assets/img/luca.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luca Macesanu " border="5"/><br />Luca Macesanu </a> <br/>Undergraduate student<br><br></div></td>
@@ -77,8 +77,18 @@ horizontal: false
       <td> After Graduation </td>
     </tr>
     <tr>
+      <td><a href="https://ruchira.framer.ai/">Ruchira Ray</a></td>
+      <td>CS MS '24</td>
+      <td>Applied AI Research Engineer at rStream</td>
+    </tr>
+    <tr>
       <td><a href="">Caleb Chalmers</a></td>
       <td>Math UG '25</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/addiefoote/">Addie Foote</a></td>
+      <td>CS UG '25</td>
       <td></td>
     </tr>
     <tr>
