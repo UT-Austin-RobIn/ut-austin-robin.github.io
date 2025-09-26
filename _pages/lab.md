@@ -36,9 +36,8 @@ horizontal: false
       <td><div style="text-align:center"><a href="https://jiahenghu.github.io/"><img src="../assets/img/jeff_squared.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Jiaheng Hu" border="5"/><br /> Jiaheng Hu</a> <br/>Ph.D. Student<br/><font size="-1">Coadvised with Peter Stone</font></div></td>
       <td><div style="text-align:center"><a href="https://shahrutav.github.io/"><img src="../assets/img/rutav_pp.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Rutav Shah" border="5"/><br />Rutav Shah</a> <br/>Ph.D. Student<br><font size="-1">Coadvised with Yuke Zhu</font></div></td>
       <td><div style="text-align:center"><a href="https://scholar.google.com/citations?user=ZzURcb4AAAAJ&hl=en"><img src="../assets/img/albertyu_sq.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Albert Yu" border="5"/><br />Albert Yu</a> <br/>Ph.D. Student<br><font size="-1">Coadvised with Raymond Mooney</font></div></td>
-      <td><div style="text-align:center"><a href="https://kevinrohling.com/"><img src="../assets/img/kevin.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Kevin Rohling" border="5"/><br />Kevin Rohling</a> <br/>Master's student</div></td>
-    </tr>
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/arnav-balaji-402ba2280/"><img src="../assets/img/arnav.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Arnav Balaji" border="5"/><br />Arnav Balaji</a> <br/>Undergraduate student<br><br></div></td>
+    </tr>
     <tr>
     </tr>
     <!-- <br> -->
@@ -96,6 +95,11 @@ horizontal: false
     <tr>
       <td><a href="https://www.linkedin.com/in/bfolefack/">Boueny Folefack</a></td>
       <td>Undergrad</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://kevinrohling.com/">Kevin Rohling</a></td>
+      <td>Masters</td>
       <td></td>
     </tr>
     <tr>
