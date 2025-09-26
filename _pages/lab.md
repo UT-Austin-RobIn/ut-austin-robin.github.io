@@ -25,7 +25,7 @@ horizontal: false
     <td><div style="text-align:center"><a href="https://robertomartinmartin.com"><img src="../assets/img/roberto_martinmartin.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Roberto Martín-Martín" border="5"/><br />Roberto Martín-Martín</a> <br/>Director and PI<br/>Visiting Academic at Amazon Consumer Robotics<br><br><br></div></td>
   </tr>
     <tr>
-      <td><div style="text-align:center"><a href="https://babbatem.github.io/"><img src="../assets/img/ben.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ben Abbatematteo" border="5"/><br /> Ben Abbatematteo</a> <br/>Post-Doctoral Researcher<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://junhongxu.github.io/"><img src="../assets/img/junhong.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Junhong Xu" border="5"/><br /> Junhong Xu</a> <br/>Post-Doctoral Researcher<br><br></div></td>
       <td><div style="text-align:center"><a href="https://sateeshkumar21.github.io/"><img src="../assets/img/sateesh.JPG" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Sateesh Kumar" border="5"/><br /> Sateesh Kumar</a> <br/>Ph.D. Student<br/><font size="-1">Coadvised with Georgios Pavlakos</font></div></td>
       <td><div style="text-align:center"><a href="https://jiangbowen0008.github.io/"><img src="../assets/img/bowen.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Bowen Jiang" border="5"/><br /> Bowen Jiang</a> <br/>Ph.D. Student<br><br></div></td>
       <td><div style="text-align:center"><a href=""><img src="../assets/img/chris.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Chris Huang" border="5"/><br /> Chris Huang</a> <br/>Ph.D. Student<br/><font size="-1">Coadvised with Nanshu Lu</font></div></td>
@@ -77,9 +77,14 @@ horizontal: false
     </tr>
     <!-- <br> -->
     <tr>
-      <td> Student </td>
+      <td> Name </td>
       <td> Class </td>
       <td> After Graduation </td>
+    </tr>
+    <tr>
+      <td><a href="https://babbatem.github.io/">Ben Abbatematteo</a></td>
+      <td>PostDoc</td>
+      <td>Research Scientist at Meta</td>
     </tr>
     <tr>
       <td><a href="https://ruchira.framer.ai/">Ruchira Ray</a></td>
