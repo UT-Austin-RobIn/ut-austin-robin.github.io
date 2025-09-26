@@ -39,9 +39,6 @@ horizontal: false
       <td><div style="text-align:center"><a href="https://kevinrohling.com/"><img src="../assets/img/kevin.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Kevin Rohling" border="5"/><br />Kevin Rohling</a> <br/>Master's student</div></td>
     </tr>
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/arnav-balaji-402ba2280/"><img src="../assets/img/arnav.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Arnav Balaji" border="5"/><br />Arnav Balaji</a> <br/>Undergraduate student<br><br></div></td>
-      <td><div style="text-align:center"><a href="https://www.linkedin.com/in/luca-macesanu/"><img src="../assets/img/luca.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luca Macesanu " border="5"/><br />Luca Macesanu </a> <br/>Undergraduate student<br><br></div></td>
-      <td><div style="text-align:center"><a href="https://www.linkedin.com/in/imsamik/"><img src="../assets/img/samik.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Samik Singh" border="5"/><br />Samik Singh</a> <br/>Undergraduate student<br><br></div></td>
-      <td><div style="text-align:center"><a href="https://www.linkedin.com/in/bfolefack/"><img src="../assets/img/boueny.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Boueny Folefack" border="5"/><br />Boueny Folefack</a> <br/>Undergraduate student<br><br></div></td>
     <tr>
     </tr>
     <!-- <br> -->
@@ -77,9 +74,9 @@ horizontal: false
     </tr>
     <!-- <br> -->
     <tr>
-      <th style="border-bottom: 2px solid black;">Name</th>
-      <th style="border-bottom: 2px solid black;">Class</th>
-      <th style="border-bottom: 2px solid black;">After Graduation</th>
+      <th style="border-bottom: 2px solid gray;">Name</th>
+      <th style="border-bottom: 2px solid gray;">Position</th>
+      <th style="border-bottom: 2px solid gray;">After Graduation</th>
     </tr>
     <tr>
       <td><a href="https://babbatem.github.io/">Ben Abbatematteo</a></td>
@@ -87,18 +84,33 @@ horizontal: false
       <td>Research Scientist at Meta</td>
     </tr>
     <tr>
+      <td><a href="https://www.linkedin.com/in/luca-macesanu/">Luca Macesanu</a></td>
+      <td>Undergrad</td>
+      <td>MS at NYU</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/imsamik/">Samik Singh</a></td>
+      <td>Undergrad</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/bfolefack/">Boueny Folefack</a></td>
+      <td>Undergrad</td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="https://ruchira.framer.ai/">Ruchira Ray</a></td>
-      <td>CS MS '24</td>
-      <td>Applied AI Research Engineer at rStream</td>
+      <td>Masters</td>
+      <td>Research Engineer at rStream</td>
     </tr>
     <tr>
       <td><a href="">Caleb Chalmers</a></td>
-      <td>Math UG '25</td>
+      <td>Undergrad</td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://www.linkedin.com/in/addiefoote/">Addie Foote</a></td>
-      <td>CS UG '25</td>
+      <td>Undergrad</td>
       <td></td>
     </tr>
     <tr>
