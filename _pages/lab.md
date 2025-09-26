@@ -77,9 +77,9 @@ horizontal: false
     </tr>
     <!-- <br> -->
     <tr>
-      <td> Name </td>
-      <td> Class </td>
-      <td> After Graduation </td>
+      <th style="border-bottom: 2px solid black;">Name</th>
+      <th style="border-bottom: 2px solid black;">Class</th>
+      <th style="border-bottom: 2px solid black;">After Graduation</th>
     </tr>
     <tr>
       <td><a href="https://babbatem.github.io/">Ben Abbatematteo</a></td>
