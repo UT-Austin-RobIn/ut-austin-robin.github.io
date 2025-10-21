@@ -105,7 +105,7 @@ horizontal: false
     <tr>
       <td><a href="https://ruchira.framer.ai/">Ruchira Ray</a></td>
       <td>Masters</td>
-      <td>Research Engineer at rStream</td>
+      <td>PhD at University of Edinburgh</td>
     </tr>
     <tr>
       <td><a href="">Caleb Chalmers</a></td>
