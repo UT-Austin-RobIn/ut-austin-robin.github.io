@@ -45,6 +45,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
+navbar_logo: only_bird.jpeg  # small logo on the left of the nav bar (file in assets/img/)
 footer_fixed: false
 
 # Dimensions

@@ -121,6 +121,69 @@ blockquote {
   }
 }
 
+// About page: center lab name above full-width image
+.about-with-full-width-image .post-header {
+  text-align: center;
+}
+
+// About page: justified body text
+.about-page article .clearfix {
+  text-align: justify;
+}
+
+// About page: limit News section height so social logos appear sooner
+.about-page .news .table-responsive {
+  max-height: 20rem !important;
+  overflow-y: auto !important;
+}
+
+// About page body: logo to the left of the main title (RobIn Robot... Lab)
+.post-title-with-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+
+  .post-title {
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .about-page-logo {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    vertical-align: middle;
+  }
+}
+
+// Full-width profile image (spans all columns, no float)
+.profile-full-width {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+  margin-bottom: 1.5rem;
+
+  img {
+    width: 100%;
+  }
+
+  .address {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: monospace;
+    p {
+      display: block;
+      margin: 0;
+    }
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
@@ -170,6 +233,15 @@ blockquote {
   }
   .navbar-brand {
     color: var(--global-text-color);
+  }
+  .navbar-logo {
+    height: 2.25rem;
+    width: 2.25rem;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+    display: inline-block;
+    border-radius: 50%;
+    object-fit: cover;
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);

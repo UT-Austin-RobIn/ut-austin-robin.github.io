@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 #description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 [2025 Spring - CS395T: Robot Manipulation and Learning, UT](https://www.cs.utexas.edu/~robertom/cs395t_spring2025/index.html)
 

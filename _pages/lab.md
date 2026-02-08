@@ -13,13 +13,16 @@ horizontal: false
 
 <head>
     <style>
-        img {
+        .lab-members-table img {
             border-radius: 58%;
+        }
+        .lab-members-table td {
+            vertical-align: top;
         }
     </style>
 </head>
 
-<table>
+<table class="lab-members-table">
   <tbody>
   <tr>
     <td><div style="text-align:center"><a href="https://robertomartinmartin.com"><img src="../assets/img/roberto_martinmartin.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Roberto Martín-Martín" border="5"/><br />Roberto Martín-Martín</a> <br/>Director and PI<br/>Visiting Academic at Amazon Consumer Robotics<br><br><br></div></td>
