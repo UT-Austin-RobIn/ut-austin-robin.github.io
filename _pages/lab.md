@@ -2,7 +2,7 @@
 layout: page
 title: Lab
 permalink: /lab/
-description: Members and collaborators
+# description: Members and collaborators
 nav: true
 nav_order: 2
 # display_categories: [work, fun]
@@ -13,19 +13,44 @@ horizontal: false
 
 <head>
     <style>
+        .lab-members-table {
+            width: 100%;
+        }
         .lab-members-table img {
             border-radius: 58%;
         }
         .lab-members-table td {
             vertical-align: top;
         }
+        .alumni-table-wrapper {
+            width: 100%;
+            overflow-x: auto;
+        }
+        table.alumni-table {
+            width: 100%;
+            table-layout: fixed;
+        }
+        table.alumni-table th,
+        table.alumni-table td {
+            border-bottom: 1px solid rgba(128,128,128,0.3);
+        }
+        .lab-title-bar {
+            border-top: 1px solid var(--global-divider-color);
+            margin-top: 0;
+            margin-bottom: 2rem;
+        }
+        .lab-section-header td {
+            padding-top: 2rem;
+        }
     </style>
 </head>
+
+<hr class="lab-title-bar">
 
 <table class="lab-members-table">
   <tbody>
   <tr>
-    <td><div style="text-align:center"><a href="https://robertomartinmartin.com"><img src="../assets/img/roberto_martinmartin.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Roberto Martín-Martín" border="5"/><br />Roberto Martín-Martín</a> <br/>Director and PI<br/>Visiting Academic at Amazon Consumer Robotics<br><br><br></div></td>
+    <td colspan="5"><div style="text-align:center"><a href="https://robertomartinmartin.com"><img src="../assets/img/roberto_martinmartin.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Roberto Martín-Martín" border="5"/><br />Roberto Martín-Martín</a> <br/>Director and PI<br/>Visiting Academic at Amazon Consumer Robotics<br><br><br></div></td>
   </tr>
     <tr>
       <td><div style="text-align:center"><a href="https://junhongxu.github.io/"><img src="../assets/img/junhong.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Junhong Xu" border="5"/><br /> Junhong Xu</a> <br/>Post-Doctoral Researcher<br><br></div></td>
@@ -47,7 +72,7 @@ horizontal: false
     <tr style="height:2em">
       <td></td>
     </tr>
-    <tr>
+    <tr class="lab-section-header">
       <td style="font-size:1.5em">
           Collaborators
       </td>
@@ -66,7 +91,7 @@ horizontal: false
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/rahul-a-iyer/"><img src="../assets/img/rahul.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Rahul Iyer" border="5"/><br />Rahul Iyer </a> <br/>Undergraduate Student<br><br></div></td>
       <td><div style="text-align:center"><a href=""><img src="../assets/img/tarun.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Tarun Kholay" border="5"/><br />Tarun Kholay</a> <br/>Undergraduate Student<br><br></div></td>
     </tr>
-    <tr>
+    <tr class="lab-section-header">
       <td style="font-size:1.5em">
           Robots
       </td>
@@ -77,64 +102,65 @@ horizontal: false
       <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/bowser.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Bowser" border="5"/><br />Bowser</a> <br/>Franka Emika Panda<br><br></div></td>
       <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/bowser.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Bowser" border="5"/><br />Toad</a> <br/>Franka Emika Panda<br><br></div></td>
     </tr>
-    <tr>
-      <td style="font-size:1.5em">
-          Alumni
-      </td>
-    </tr>
-    <!-- <br> -->
-    <tr>
-      <th style="border-bottom: 2px solid gray;">Name</th>
-      <th style="border-bottom: 2px solid gray;">Position</th>
-      <th style="border-bottom: 2px solid gray;">After Graduation</th>
-    </tr>
-    <tr>
-      <td><a href="https://babbatem.github.io/">Ben Abbatematteo</a></td>
-      <td>PostDoc</td>
-      <td>Research Scientist at Meta</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/luca-macesanu/">Luca Macesanu</a></td>
-      <td>Undergrad</td>
-      <td>MS at NYU</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/imsamik/">Samik Singh</a></td>
-      <td>Undergrad</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/bfolefack/">Boueny Folefack</a></td>
-      <td>Undergrad</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="https://kevinrohling.com/">Kevin Rohling</a></td>
-      <td>Masters</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="https://ruchira.framer.ai/">Ruchira Ray</a></td>
-      <td>Masters</td>
-      <td>PhD at University of Edinburgh</td>
-    </tr>
-    <tr>
-      <td><a href="">Caleb Chalmers</a></td>
-      <td>Undergrad</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/addiefoote/">Addie Foote</a></td>
-      <td>Undergrad</td>
-      <td></td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
   </tbody>
 </table>
 
+<br>
+<div class="alumni-table-wrapper">
+  <p style="font-size:1.5em; margin-bottom: 0.5rem;">Alumni</p>
+  <table class="alumni-table">
+    <thead>
+      <tr>
+        <th style="border-bottom: 2px solid gray; text-align: left;">Name</th>
+        <th style="border-bottom: 2px solid gray; text-align: left;">Position</th>
+        <th style="border-bottom: 2px solid gray; text-align: left;">After Graduation</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://babbatem.github.io/">Ben Abbatematteo</a></td>
+        <td>PostDoc</td>
+        <td>Research Scientist at Meta</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.linkedin.com/in/luca-macesanu/">Luca Macesanu</a></td>
+        <td>Undergrad</td>
+        <td>MS at NYU</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.linkedin.com/in/imsamik/">Samik Singh</a></td>
+        <td>Undergrad</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://www.linkedin.com/in/bfolefack/">Boueny Folefack</a></td>
+        <td>Undergrad</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://kevinrohling.com/">Kevin Rohling</a></td>
+        <td>Masters</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://ruchira.framer.ai/">Ruchira Ray</a></td>
+        <td>Masters</td>
+        <td>PhD at University of Edinburgh</td>
+      </tr>
+      <tr>
+        <td><a href="">Caleb Chalmers</a></td>
+        <td>Undergrad</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://www.linkedin.com/in/addiefoote/">Addie Foote</a></td>
+        <td>Undergrad</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <br><br>
 
-To join the lab, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSffvYGQ74fz2c-GvBfTGbuXGxupA0Y8Iy4s88UfVu7Gfb1c1A/viewform) and state clearly if you are an UG/MSc/PhD from UT, or a prospective visitor. 
+<!-- To join the lab, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSffvYGQ74fz2c-GvBfTGbuXGxupA0Y8Iy4s88UfVu7Gfb1c1A/viewform) and state clearly if you are an UG/MSc/PhD from UT, or a prospective visitor.  -->
