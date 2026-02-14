@@ -72,9 +72,10 @@ horizontal: false
       </td>
     </tr>
     <tr>
-      <td><div style="text-align:center"><a href="https://blog.pal-robotics.com/tiago-omni-bi-manual-omnidirectional-robot/"><img src="../assets/img/mario.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Mario" border="5"/><br />Mario</a> <br/>Mobile Manipulator<br><br></div></td>
-      <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/luigi.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luigi" border="5"/><br />Luigi</a> <br/>Robot Arm<br><br></div></td>
-      <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/bowser.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Bowser" border="5"/><br />Bowser</a> <br/>Robot Arm<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://blog.pal-robotics.com/tiago-omni-bi-manual-omnidirectional-robot/"><img src="../assets/img/tiago.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Mario" border="5"/><br />Mario</a> <br/>PAL TIAGo<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/luigi.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luigi" border="5"/><br />Luigi</a> <br/>Franka Emika Panda<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/bowser.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Bowser" border="5"/><br />Bowser</a> <br/>Franka Emika Panda<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/bowser.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Bowser" border="5"/><br />Toad</a> <br/>Franka Emika Panda<br><br></div></td>
     </tr>
     <tr>
       <td style="font-size:1.5em">
