@@ -779,8 +779,39 @@ progress {
  progress::-moz-progress-bar {
      background-color: var(--global-theme-color);
  }
- 
- .progress-container {
+
+.zoom-caption {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 1.5rem;
+  z-index: 1100;
+  display: none;
+  text-align: center;
+  color: var(--global-text-color);
+  pointer-events: none;
+  padding: 0 1rem;
+}
+
+.zoom-caption.is-visible {
+  display: block;
+}
+
+.zoom-caption-title {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-shadow: 0 1px 8px var(--global-bg-color);
+}
+
+.zoom-caption-meta {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.85rem;
+  opacity: 0.75;
+}
+
+.progress-container {
      width: 100%;
      background-color: transparent;
      position: fixed;
