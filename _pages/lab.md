@@ -96,6 +96,11 @@ horizontal: false
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/rahul-a-iyer/"><img src="../assets/img/rahul.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Rahul Iyer" border="5"/><br />Rahul Iyer </a> <br/>Undergraduate Student<br><br></div></td>
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/kevin-nguyen-ut/"><img src="../assets/img/kevin.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Kevin Nguyen" border="5"/><br />Kevin Nguyen</a> <br/>Undergraduate Student<br><br></div></td>
       <td><div style="text-align:center"><a href="https://linkedin.com/in/danielwlam"><img src="../assets/img/daniel.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Daniel Lam" border="5"/><br />Daniel Lam</a> <br/>Undergraduate Student<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://ashw.vercel.app"><img src="../assets/img/ashwin.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ashwin Prakash" border="5"/><br />Ashwin Prakash</a> <br/>Undergraduate Student<br><br></div></td>
+    </tr>
+    <tr>
+      <td><div style="text-align:center"><a href="https://www.linkedin.com/in/cosmo-wu1154/"><img src="../assets/img/cosmo.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Cosmo Wu" border="5"/><br />Cosmo Wu</a> <br/>Undergraduate Student<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://myoungkyu.com"><img src="../assets/img/daniel_seo.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Daniel Seo" border="5"/><br />Daniel Seo</a> <br/>Undergraduate Student<br><br></div></td>
     </tr>
     <tr class="lab-section-header">
       <td style="font-size:1.5em">
@@ -103,6 +108,7 @@ horizontal: false
       </td>
     </tr>
     <tr>
+      <td><div style="text-align:center"><a href="https://faunarobotics.com/"><img src="../assets/img/sprout_2.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Sprout" border="5"/><br />Sprout</a> <br/>Fauna Robotics<br><br></div></td>
       <td><div style="text-align:center"><a href="https://blog.pal-robotics.com/tiago-omni-bi-manual-omnidirectional-robot/"><img src="../assets/img/tiago.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Mario" border="5"/><br />Mario</a> <br/>PAL TIAGo<br><br></div></td>
       <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/luigi.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luigi" border="5"/><br />Luigi</a> <br/>Franka Emika Panda<br><br></div></td>
       <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/bowser.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Bowser" border="5"/><br />Bowser</a> <br/>Franka Emika Panda<br><br></div></td>
